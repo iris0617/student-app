@@ -1,4 +1,6 @@
-\*\* React.JS \*\*
+#Hatchways-app
+
+## TechStack: React.JS
 
 - Created with create-react-app
 - Package manager:Yarn
